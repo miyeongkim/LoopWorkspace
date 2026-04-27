@@ -336,6 +336,20 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "6C4920F62F62ACCA00B88D35"
+               BuildableName = "DiaconnKitPlugin.loopplugin"
+               BlueprintName = "DiaconnKitPlugin"
+               ReferencedContainer = "container:DiaconnKit/DiaconnKit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "A9BAC72626CDB7A5001C9493"
                BuildableName = "NightscoutRemoteCGMPlugin.loopplugin"
                BlueprintName = "NightscoutRemoteCGMPlugin"

@@ -58,3 +58,6 @@
 [submodule "LibreTransmitter"]
 	path = LibreTransmitter
 	url = https://github.com/LoopKit/LibreTransmitter.git
+[submodule "DiaconnKit"]
+	path = DiaconnKit
+	url = https://github.com/miyeongkim/DiaconnKit.git
